@@ -17,6 +17,13 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://ezgif.com/reverse/ezgif-4-ecc46a8df4.gif">
 </div>
 
+  ##
+  
+ <div> 
+  <a href="https://instagram.com/oleo.nardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="hhttps://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:leozinho84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 <!--
 **LeonardoReisC/LeonardoReisC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
