@@ -5,7 +5,7 @@
 ##
 
 <p align="center">
-  🔬 I'm currently a Computer Science Student from Federal University of Alfenas 🇧🇷
+  🔬 I'm currently a 19 years old Computer Science Student at Federal University of Alfenas 🇧🇷
   <br>
   🎓 I have, recently, joined the third semester of the course
   <br>
