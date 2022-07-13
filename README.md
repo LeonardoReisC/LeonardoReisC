@@ -1,5 +1,6 @@
-### Bem Vindo ao meu perfil!!!
-## Sou o Leonardo Reis Coimbra, estudante de Ciência da Computação da Universidade Federal de Alfenas
+## Bem Vindo ao meu perfil!!!
+## Sou o Leonardo Reis Coimbra 
+#### Estudante de Ciência da Computação da Universidade Federal de Alfenas
 
 
 
