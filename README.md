@@ -12,9 +12,8 @@
   <img align="center" alt="Leo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Leo-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
-  <img align="center" alt="Leo-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://ezgif.com/reverse/ezgif-4-ecc46a8df4.gif">
+  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://ezgif.com/reverse/ezgif-4-ecc46a8df4.gif">
 </div>
 
   ##
