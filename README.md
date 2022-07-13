@@ -1,4 +1,5 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Bem Vindo ao meu perfil!!!
+## Sou o Leonardo Reis Coimbra, estudante de Ciência da Computação da Universidade Federal de Alfenas
 
 
 
