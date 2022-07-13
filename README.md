@@ -1,4 +1,4 @@
-# Bem Vindo ao meu perfil!!!
+# Bem Vindo ao meu perfil!!
 ## Sou o Leonardo Reis Coimbra 
 ### Estudante de Ciência da Computação da Universidade Federal de Alfenas
 
@@ -23,6 +23,7 @@
  <a href="hhttps://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leozinho84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+  
 <!--
 **LeonardoReisC/LeonardoReisC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
