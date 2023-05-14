@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20there%20👋;This%20is%20Leonardo%20Reis%20Coimbra...;Welcome%20to%20my%20profile!&font=Fira%20Code&center=true&width=440&height=45&color=bb9af7&vCenter=true&size=22"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&width=1000&height=45&color=bb9af7&vCenter=true&size=22&duration=6500&lines=Hi,+there+👋;This+is+Leonardo+Reis+Coimbra...;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+  
 ##
 
 <p align="center">
