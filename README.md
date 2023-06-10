@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&center=true&width=1000&height=45&color=bb9af7&vCenter=true&size=22&duration=6500&lines=Hi,+there+👋;This+is+Leonardo+Reis+Coimbra...;Welcome+to+my+profile!)](https://git.io/typing-svg)
-<hr>
+##
 
 <div align="center">
   <p>🔬 I'm currently a 20 years old Computer Science Student at Federal University of Alfenas 🇧🇷</p>
