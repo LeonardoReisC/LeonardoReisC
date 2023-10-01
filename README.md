@@ -3,8 +3,8 @@
 
 <div align="center">
   <p>🔬 I'm currently a 20 years old Computer Science Student at Federal University of Alfenas 🇧🇷</p>
-  <p>🎓 I have, recently, joined the fifth semester of the course</p>
-  <p>📚 I'm currently studying the Python programming language, as I follow its roadmap</p>
+  <p>🎓 I have, recently, joined the sixth semester of the course</p>
+  <p>📚 I'm currently studying Django Web Framework and Django REST Framework</p>
   <p>💓 Music and Pet lover 🐶</p>
   <br>
 </div>
