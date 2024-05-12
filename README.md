@@ -22,7 +22,7 @@
   </td>
   <td>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoReisC&layout=donut-vertical&theme=tokyonight&&exclude_repo=wordpress-personal-website)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoReisC&layout=donut-vertical&theme=tokyonight&&exclude_repo=wordpress-personal-website,unifal-ensembleAI,unifal-EDA,unifal-ANN)
   
   </td>
   </tr>
