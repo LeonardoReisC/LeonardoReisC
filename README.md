@@ -4,7 +4,7 @@
 
 <p align="center">🔬 I'm currently a 23 years old Computer Science Student at Federal University of Alfenas 🇧🇷</p>
 
-<p align="center">📚 I'm currently studying AI engineering</p>
+<p align="center">📚 I'm currently focusing on AI Engineering, exploring machine learning systems, deep learning models</p>
 
 <p align="center">💓 Music and Pet lover 🐶</p>
 <br />
